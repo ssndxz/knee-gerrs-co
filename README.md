@@ -33,7 +33,7 @@ The analytics is intended to support:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/technopulse-analytics.git
+   git clone https://github.com/ssndxz/knee-gerrs-co
    cd technopulse-analytics
    ```
 
